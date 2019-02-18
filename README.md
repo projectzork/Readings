@@ -24,10 +24,9 @@ They use the full inventory and look description for training. These need to be 
 
 *Bottomline*: How important is it to be able to generate unseen commands?
 
-![](img/cote_adaptive_action_spaces_results.png)
+![](img/cote_adaptive_action_spaces_qresult.png)
 
 ----
-
 
 ## Playing Text-Adventure Games with Graph-Based Deep Reinforcement Learning
 
