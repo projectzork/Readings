@@ -28,6 +28,7 @@ They use the full inventory and look description for training. These need to be 
 
 ----
 
+
 ## Playing Text-Adventure Games with Graph-Based Deep Reinforcement Learning
 
 https://arxiv.org/pdf/1812.01628.pdf
